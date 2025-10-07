@@ -1,0 +1,3 @@
+This is most of a talk I've done on Axis-Aligned Bounding Box trees. It covers the theory and uses some pseudocode. I've included some Python, but I've had to somewhat haphazardly alter it to remove anything that referenced something we were doing at my company.
+
+I think the first half of the presentation without the code is good, and I think the remaining code portions have some merit with the optimisation work in python.

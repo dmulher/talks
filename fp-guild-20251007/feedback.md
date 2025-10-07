@@ -1,0 +1,3 @@
+- At times, entertaining and engaging talk
+- Coupled simple FP concepts with dense maths and introducing a new language to a lot of people
+  - Could have handled that one better
